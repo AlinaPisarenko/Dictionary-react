@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
       </header>
       <Dictionary />
-      <footer className="App-footer">Codded by Alina Pisarenko</footer>
+      <footer className="App-footer">Coded by Alina Pisarenko</footer>
     </div>
   );
 }

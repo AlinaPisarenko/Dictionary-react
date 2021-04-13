@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  display: block;
+  margin-top: 10px;
+  max-width: 200px;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

@@ -9,7 +9,16 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
       </header>
       <Dictionary />
-      <footer className="App-footer">Coded by Alina Pisarenko</footer>
+      <footer className="App-footer">
+        This project was coded by Alina Pisarenko and is{" "}
+        <a
+          href="https://github.com/AlinaPisarenko/Dictionary-react"
+          target="_blank"
+          rel="noreferrer"
+        >
+          open-sourced on GitHub
+        </a>
+      </footer>
     </div>
   );
 }

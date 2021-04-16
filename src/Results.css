@@ -8,14 +8,14 @@
   padding: 10px 5px;
 
   background-color: #dbcdc1;
-
   border-radius: 6px;
 }
 .Results .col-4 {
   padding: 0 5px;
 }
 .Results .col-8 {
-  padding: 0;
+  padding: 0px 10px;
+  border-left: 1px solid #fff;
 }
 .Results h2 {
   font-weight: bold;

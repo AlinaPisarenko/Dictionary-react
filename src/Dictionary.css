@@ -1,3 +1,10 @@
 .Dictionary {
   padding: 20px 0px;
 }
+
+.Dictionary section {
+  margin: 5px 0px;
+}
+.Dictionary form {
+  padding: 10px 20px;
+}

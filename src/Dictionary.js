@@ -36,7 +36,6 @@ export default function Dictionary(props) {
             type="search"
             class="form-control"
             placeholder="Type a word"
-            aria-label="Recipient's username"
             aria-describedby="button-addon2"
             onChange={handleKeywordChange}
           />

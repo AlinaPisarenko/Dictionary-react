@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
       </header>
-      <Dictionary defaultWord="welcome" />
+      <Dictionary defaultWord="Welcome" />
       <footer className="App-footer">
         This project was coded by Alina Pisarenko and is{" "}
         <a

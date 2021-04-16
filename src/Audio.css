@@ -1,0 +1,15 @@
+.Audio {
+  display: inline;
+}
+
+.Audio .sound {
+  text-decoration: none;
+  transition: all 200ms ease-in-out;
+  color: #fff;
+  font-size: 20px;
+}
+
+.Audio .sound:hover {
+  cursor: pointer;
+  color: #b9aea4;
+}

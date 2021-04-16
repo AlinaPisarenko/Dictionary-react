@@ -8,12 +8,17 @@
   padding: 10px 5px;
 
   background-color: #dbcdc1;
-  opacity: 0.4;
-  border-radius: 8px;
+
+  border-radius: 6px;
 }
 .Results .col-4 {
   padding: 0 5px;
 }
 .Results .col-8 {
   padding: 0;
+}
+.Results h2 {
+  font-weight: bold;
+  font-size: 35px;
+  margin-bottom: 0;
 }

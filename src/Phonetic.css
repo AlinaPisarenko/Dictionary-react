@@ -1,0 +1,7 @@
+.Phonetic {
+  opacity: 0.6;
+  font-size: 20px;
+}
+.Phonetic span {
+  padding-right: 5px;
+}

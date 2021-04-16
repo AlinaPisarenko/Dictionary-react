@@ -31,6 +31,7 @@ export default function Dictionary(props) {
   if (loaded) {
     return (
       <div className="Dictionary">
+        <div className="question">What word are you looking for?</div>
         <form onSubmit={handleSearch} class="input-group mb-3">
           <input
             type="search"
@@ -47,6 +48,9 @@ export default function Dictionary(props) {
             Button
           </button>
         </form>
+        <div className="suggestion">
+          suggested words: sunset, ocean, movie...
+        </div>
 
         <Results results={results} />
       </div>

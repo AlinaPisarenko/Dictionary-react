@@ -19,3 +19,12 @@
   font-size: 14px;
   margin-top: -20px;
 }
+.Dictionary .btn.btn-outline-secondary {
+  color: #fff;
+  border-color: #fff;
+}
+.Dictionary .btn.btn-outline-secondary:hover {
+  color: #dbcdc1;
+  background-color: #fff;
+  border-color: #dbcdc1;
+}

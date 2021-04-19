@@ -1,3 +1,6 @@
 .Meaning {
   text-align: left;
 }
+.Meaning em {
+  opacity: 0.6;
+}

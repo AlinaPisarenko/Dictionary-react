@@ -41,11 +41,12 @@ export default function Dictionary(props) {
             onChange={handleKeywordChange}
           />
           <button
+            onClick={handleSearch}
             class="btn btn-outline-secondary"
             type="button"
             id="button-addon2"
           >
-            Button
+            Search
           </button>
         </form>
         <div className="suggestion">

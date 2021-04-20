@@ -11,7 +11,7 @@ export default function Audio(props) {
           audio.play();
         }}
       >
-        <i class="fas fa-volume-up"></i>
+        <i className="fas fa-volume-up"></i>
         <audio className="audioFile" src={props.audio}></audio>
       </button>
     </div>

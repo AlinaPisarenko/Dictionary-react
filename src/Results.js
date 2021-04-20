@@ -7,7 +7,7 @@ export default function Results(props) {
   if (props.results) {
     return (
       <div className="Results">
-        <div class="row">
+        <div className="row">
           <section className="col-4">
             <div className="Results-info">
               <h2>{props.results.word}</h2>

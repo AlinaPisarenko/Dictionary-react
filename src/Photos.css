@@ -1,0 +1,8 @@
+.Photos {
+  padding-top: 20px;
+  opacity: 0.8;
+}
+
+.Photos img {
+  border-radius: 6px;
+}

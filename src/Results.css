@@ -6,19 +6,16 @@
 }
 .Results-info {
   padding: 10px 5px;
-
-  background-color: #9da993;
-  border-radius: 6px;
 }
 .Results .col-4 {
   padding: 0 5px;
 }
 .Results .col-8 {
-  padding: 0px 10px;
+  padding: 0px 16px;
   border-left: 1px solid #fff;
 }
 .Results h2 {
   font-weight: bold;
-  font-size: 35px;
+  font-size: 37px;
   margin-bottom: 0;
 }

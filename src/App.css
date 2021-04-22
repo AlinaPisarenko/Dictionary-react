@@ -9,7 +9,7 @@
 
 .App-logo {
   float: left;
-  margin-top: 15px;
+  margin-top: 20px;
   max-width: 200px;
 }
 
@@ -17,11 +17,12 @@
   background-color: #9da993;
   max-height: 80px;
   padding-left: 20px;
-  margin-bottom: 50px;
+  box-shadow: 1px 1px 16px rgb(136, 136, 136);
 }
 
 .App-footer {
   font-size: small;
+  padding-bottom: 15px;
 }
 .App .quote {
   float: right;
@@ -29,4 +30,14 @@
   font-size: 12px;
   margin-top: 5px;
   margin-right: 20px;
+}
+.App .link {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+.App .link:hover {
+  color: #fff;
+  text-decoration: underline;
+  font-weight: bold;
 }

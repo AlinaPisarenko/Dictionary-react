@@ -18,6 +18,7 @@ function App() {
       <footer className="App-footer">
         This project was coded by Alina Pisarenko and is{" "}
         <a
+          className="link"
           href="https://github.com/AlinaPisarenko/Dictionary-react"
           target="_blank"
           rel="noreferrer"

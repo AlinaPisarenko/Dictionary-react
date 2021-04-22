@@ -43,7 +43,7 @@ export default function Dictionary(props) {
   if (loaded) {
     return (
       <div className="Dictionary">
-        <div className="question">What word are you looking for?</div>
+        <div className="question">What word do you want to look up?</div>
         <form onSubmit={handleSearch} className="input-group mb-3">
           <input
             type="search"
